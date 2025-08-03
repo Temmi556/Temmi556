@@ -1,20 +1,17 @@
-## Hi my name is Temmik and I'm a beginner in machine learning 
-
-
-<h1 align="center">Привет! Я Тёмми 👋</h1>
+<h1 align="center">Hey there! I'm Temmi 👋</h1>
 <p align="center">
-  🧠 Junior ML-инженер • 🐧 Arch Linux пользователь • ✍ Люблю писать код и конспекты
+  🧠 Beginner ML Engineer • 🐧 Arch Linux user • ✍ Loves code & handwritten notes
 </p>
 
 ---
 
-## 🌐 Связь
+## 🌐 Socials
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemfapl@gmail.com)
 
 ---
 
-## 💻 Мой стек технологий
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -28,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Статистика
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=temmi556&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
@@ -40,7 +37,7 @@
 
 ---
 
-## 🏆 GitHub Трофеи
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=temmi556&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
@@ -48,7 +45,7 @@
 
 ---
 
-## 🔝 Самые активные репозитории
+## 🔝 Top Contributed Repositories
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=temmi556&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
@@ -56,7 +53,7 @@
 
 ---
 
-## 👣 Просмотры профиля
+## 👣 Profile Views
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
@@ -67,3 +64,4 @@
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
