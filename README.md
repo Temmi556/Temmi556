@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Temmi 👋</h1>
+<h1 align="center">Hey there! I'm Temmik 👋</h1>
 <p align="center">
   🧠 Beginner ML Engineer • 🐧 Arch Linux user • ✍ Loves code & handwritten notes
 </p>
@@ -49,16 +49,6 @@
 
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=temmi556&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-## 👣 Profile Views
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=temmi556&icon=2&color=0" />
-  </a>
 </p>
 
 ---
