@@ -1,4 +1,4 @@
-## Temmik556
+## Hi
 Hi my name is Temmik and I'm a beginner in machine learning 
 it's my GitHub repository where I will upload my local projects
 
