@@ -24,7 +24,7 @@
 
 <div align="center">
   
-![GitHub stars](https://github-readme-stats.vercel.app/api?username=<Temmi556>&show_icons=true&theme=default&count_private=true&hide=issues)
+![GitHub stars](https://github-readme-stats.vercel.app/api?username=Temmi556&show_icons=true&theme=default&count_private=true&hide=issues)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmi556&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
