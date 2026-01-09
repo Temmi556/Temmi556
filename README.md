@@ -24,13 +24,7 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmi556&layout=compact&theme=default)
-  
-![GitHub stars](https://github-readme-stats.vercel.app/api?username=Temmi556&show_icons=true&theme=default&count_private=true&hide=issues)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmi556&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmi556&layout=compact&theme=radical&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiTemmi556=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Temmi556&theme=radical&hide_border=true)
 
