@@ -61,6 +61,6 @@
   
 ⭐️ Создано с помощью [GitHub Profile README Generator](https://github.com)
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Temmi556/count.svg)
 
 </div>
