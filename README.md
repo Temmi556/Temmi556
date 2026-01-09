@@ -35,6 +35,8 @@
   
 <a href="https://github.com/Temmi556" align="left"><img src="https://github-readme-stats-gamma-one-23.vercel.app/api/top-langs/?username=Temmi556&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![](https://raw.githubusercontent.com/Temmi556/github-stats-transparent/output/generated/languages.svg)
+
 </div>
 
 ## 📈 График активности
