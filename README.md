@@ -17,7 +17,6 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -25,11 +24,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmi556&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmi556&layout=compact&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Temmi556&theme=radical&hide_border=true)
 
 </div>
 
@@ -37,13 +36,13 @@
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Temmi556&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
 ## 📈 График активности
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)](https://github.com/YOUR_USERNAME)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Temmi556&theme=react-dark&hide_border=true)](https://github.com/YOUR_USERNAME)
 
 ## 🔥 Текущие проекты
 
@@ -53,9 +52,8 @@
 
 ## 📫 Связаться со мной
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Temmik1)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:temmi556@mail.ru)
 
 ---
 
