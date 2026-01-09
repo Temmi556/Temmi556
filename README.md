@@ -23,8 +23,8 @@
 ## 📊 GitHub Статистика
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temmi556&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Temmi556's GitHub Stats" />
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Temmi556&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Temmi556&theme=radical&hide_border=true)
 
