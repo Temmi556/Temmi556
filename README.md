@@ -1,57 +1,68 @@
-<h1 align="center">Hey there! I'm Temmik 👋</h1>
-<p align="center">
-  🧠 Beginner ML Engineer • 🐧 Arch Linux user • ✍ Loves code & handwritten notes
-</p>
+# 👋 Привет! Я ML-специалист
+
+Добро пожаловать на мой профиль! Я начинающий специалист в области машинного обучения, увлеченный созданием интеллектуальных решений.
+
+## 🚀 О мне
+
+- 🤖 Изучаю Machine Learning и Deep Learning
+- 🐍 Люблю Python за его мощь в data science
+- ⚡️ Разбираюсь в C для понимания низкоуровневых концепций
+- 📊 Интересуюсь анализом данных и построением моделей
+- 🌱 Постоянно учусь новому в мире AI/ML
+
+## 💻 Технологии и инструменты
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+## 📊 GitHub Статистика
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+
+</div>
+
+## 🏆 GitHub Трофеи
+
+<div align="center">
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+## 📈 График активности
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)](https://github.com/YOUR_USERNAME)
+
+## 🔥 Текущие проекты
+
+- 🧠 Изучаю алгоритмы машинного обучения
+- 📚 Прохожу курсы по deep learning
+- 💡 Работаю над pet-проектами для портфолио
+
+## 📫 Связаться со мной
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 
-## 🌐 Socials
+<div align="center">
+  
+⭐️ Создано с помощью [GitHub Profile README Generator](https://github.com)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artemfapl@gmail.com)
+![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)
 
----
-
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=temmi556&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=temmi556&theme=dark&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temmi556&theme=dark&hide_border=false&layout=compact" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=temmi556&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=temmi556&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
-</p>
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+</div>
