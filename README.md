@@ -24,8 +24,6 @@
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmi556&theme=tokyonight)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Temmi556&theme=radical&hide_border=true)
 
 </div>
@@ -34,7 +32,7 @@
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=Temmi556&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
+
 
 </div>
 
@@ -57,8 +55,4 @@
 
 <div align="center">
   
-⭐️ Создано с помощью [GitHub Profile README Generator](https://github.com)
 
-![Visitor Count](https://profile-counter.glitch.me/Temmi556/count.svg)
-
-</div>
