@@ -23,8 +23,8 @@
 ## 📊 GitHub Статистика
 
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Temmi556)](https://github.com/anuraghazra/github-readme-stats)
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temmi556&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Temmi556's GitHub Stats" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Temmi556&theme=radical&hide_border=true)
 
