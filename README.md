@@ -23,6 +23,8 @@
 ## 📊 GitHub Статистика
 
 <div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Temmi556&layout=compact&theme=default)
   
 ![GitHub stars](https://github-readme-stats.vercel.app/api?username=Temmi556&show_icons=true&theme=default&count_private=true&hide=issues)
 
